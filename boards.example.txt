@@ -1,0 +1,7 @@
+# Boards to track: one per line, then an optional display name.
+#   greenhouse:<token>   from https://boards.greenhouse.io/<token>
+#   lever:<token>        from https://jobs.lever.co/<token>
+#
+# Examples (replace with real tokens you've checked in a browser):
+# greenhouse:yourcompany  Your Company
+# lever:anothercompany    Another Company
