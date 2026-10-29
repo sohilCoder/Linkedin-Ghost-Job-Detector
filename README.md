@@ -213,10 +213,3 @@ ghostjobs/
   server.py     JSON API + web page (stdlib http.server)
 tests/          63 tests: parsing, MinHash, LSH, collector, links, linking, scoring, API
 ```
-
-## Next steps
-
-- Learn score weights from labeled outcomes instead of hand-setting them.
-- Run the collector on a schedule (GitHub Actions) and publish daily results.
-- Cross-company signals: the same posting text appearing at staffing agencies.
-- Support more job board platforms (Ashby, Workable).
